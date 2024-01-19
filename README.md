@@ -44,6 +44,8 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![可见光影像1](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_label.png) | ![可见光影像2](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/577_label.png) | ![可见光影像3](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/937_label.png)
 
+注：红色代表钢及钢筋混凝土结构建筑物；绿色代表砌体结构建筑物；蓝色代表砖石及其他结构建筑物
+
 地面真实值数据下载链接：[百度网盘](https://pan.baidu.com/s/1JVoNBi_5jFVI4jAUciJu1A?pwd=2024)
 
 
