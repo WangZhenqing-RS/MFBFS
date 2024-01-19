@@ -7,8 +7,10 @@
 ### 2.1光谱特征
 
 
-![可见光影像](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) ![蓝波段光谱特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_b.png)
 
+![可见光影像](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![蓝波段光谱特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_b.png)
+:-------------------------:|:-------------------------:
+*可见光影像*                | *蓝波段光谱特征*
 
 
 
