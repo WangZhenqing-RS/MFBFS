@@ -12,7 +12,7 @@
 
 光谱特征数据下载链接：[百度网盘](https://pan.baidu.com/s/1U2F-md4R3I3Rrcz3SWxk-g?pwd=2024)
 
-### 2.2 纹理特征
+### 2.2纹理特征
 
 ![可见光影像](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![对比度](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_contrast_mean.png) | ![相异性](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_dissimilarity_mean.png) | ![同质度](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_homogeneity_mean.png) | ![相关性](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_correlation_mean.png) | ![角二阶矩](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_asm_mean.png) | ![局部二值模式](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_lbp.png) | ![方向梯度直方图](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_hog.png)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -20,8 +20,29 @@
 
 纹理特征数据下载链接：[百度网盘](https://pan.baidu.com/s/1K938L0U78eWlRX5QwKP6og?pwd=2024)
 
+### 2.3边缘特征
+
+![可见光影像](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![Sobel边缘特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_sobel.png) | ![Canny边缘特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_canny.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+*可见光影像* | *Sobel边缘特征* | *Canny边缘特征*
+
+边缘特征数据下载链接：[百度网盘](https://pan.baidu.com/s/1ox7HoaCea9QQf19wrhMbPQ?pwd=2024)
+
+### 2.4指数特征
+
+![可见光影像](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![建筑物指数特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_mbi.png) | ![阴影特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_si.png) | ![归一化植被指数特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_ndvi.png) | ![归一化水体指数特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_ndwi.png)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+*可见光影像* | *建筑物指数特征* | *阴影特征* | *归一化植被指数特征* | *归一化水体指数特征*
+
+指数特征数据下载链接：[百度网盘](https://pan.baidu.com/s/18-AA8P-cPhbShEs_ObiqTA?pwd=2024)
+
+## 3地面真实值可视化展示
+
+![可见光影像1](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![可见光影像2](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/577_rgb.png) | ![可见光影像3](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/937_rgb.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+![可见光影像1](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_label.png) | ![可见光影像2](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/577_label.png) | ![可见光影像3](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/937_label.png)
+
+地面真实值数据下载链接：[百度网盘](https://pan.baidu.com/s/1JVoNBi_5jFVI4jAUciJu1A?pwd=2024)
 
 
-
-
-
+## 4深度学习实验代码待整理后上传
