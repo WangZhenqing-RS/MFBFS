@@ -16,7 +16,7 @@
 
 ![可见光影像](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![对比度](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_contrast_mean.png) | ![相异性](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_dissimilarity_mean.png) | ![同质度](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_homogeneity_mean.png) | ![相关性](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_correlation_mean.png) | ![角二阶矩](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_asm_mean.png) | ![局部二值模式](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_lbp.png) | ![方向梯度直方图](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_hog.png)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-*可见光* | *对比度* | *相异性* | *同质度* | *相关性* | *ASM* | *LBP* | *HOG*
+*可见光* | *对比度* | *相异性* | *同质度* | *相关性* | *二阶矩* | *二值模* | *梯度图*
 
 纹理特征数据下载链接：[百度网盘](https://pan.baidu.com/s/1K938L0U78eWlRX5QwKP6og?pwd=2024)
 
