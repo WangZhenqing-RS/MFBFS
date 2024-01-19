@@ -7,9 +7,11 @@
 ### 2.1光谱特征
 
 
-![可见光影像](https://upload-images.jianshu.io/upload_images/26083876-bf2711edb8894f55.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp) | ![可见光影像](https://upload-images.jianshu.io/upload_images/26083876-bf2711edb8894f55.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
+![可见光影像](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) ![蓝波段光谱特征](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_b.png)
 
---- | ---
+
+
+
 
 
 
