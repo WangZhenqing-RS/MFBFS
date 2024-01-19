@@ -38,9 +38,9 @@
 
 ## 3地面真实值可视化展示
 
-![可见光影像1](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![可见光影像2](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/577_rgb.png) | ![可见光影像3](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/937_rgb.png)
+![可见光影像1](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_rgb.png) | ![可见光影像2](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/577_rgb.tif) | ![可见光影像3](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/937_rgb.tif)
 :-------------------------:|:-------------------------:|:-------------------------:
-![可见光影像1](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_label.png) | ![可见光影像2](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/577_label.png) | ![可见光影像3](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/937_label.png)
+![可见光影像1](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/94_label.tif) | ![可见光影像2](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/577_label.tif) | ![可见光影像3](https://github.com/WangZhenqing-RS/MFBFS/blob/main/sample_data/937_label.tif)
 
 地面真实值数据下载链接：[百度网盘](https://pan.baidu.com/s/1JVoNBi_5jFVI4jAUciJu1A?pwd=2024)
 
