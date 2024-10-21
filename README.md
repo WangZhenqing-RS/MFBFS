@@ -47,3 +47,8 @@
 注：红色代表钢及钢筋混凝土结构建筑物；绿色代表砌体结构建筑物；蓝色代表砖石及其他结构建筑物
 
 地面真实值数据下载链接：[百度网盘](https://pan.baidu.com/s/1JVoNBi_5jFVI4jAUciJu1A?pwd=2024)
+
+## 4.引用
+
+王振庆，周艺，王福涛，王世新，高郭瑞，朱金峰，王平，胡凯龙.MFBFS：高分辨率多光谱遥感影像细粒度建筑物特征集.遥感学报，XX（XX）： 1-12 DOI: 10.11834/jrs.20243526.
+WANG Zhenqing，ZHOU Yi，WANG Futao，WANG Shixin，GAO Guorui，ZHU Jinfeng，WANG Ping，HU Kailong. MFBFS： a fine-grained building feature set for high-resolution multispectral remote sensing images. National Remote Sensing Bulletin， XX（XX）：1-12 DOI: 10.11834/jrs.20243526.
